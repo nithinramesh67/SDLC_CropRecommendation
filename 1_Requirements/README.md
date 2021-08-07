@@ -8,7 +8,7 @@ to be in loss, will not get proper yield of profit in the end. To overcome probl
 we have applying Machine Learning technique history of Crop yield Information
 of the region
 ## Objectives
-* Recommend a Suitable Crop to farmer based on his region soil features surface temperature, rainfall from dataset which is gathered from Open Government Data (data.gov.in)
+* Recommend a Suitable Crop to farmer based on his region soil features surface temperature, rainfall from dataset which is gathered from Open Government Data (data.gov.in)
 * Study various Classification Algorithms in machine learning and analyze
 which classifier is suitable for Crop Recommendation
 * Predict the Crop price monthly changes by analyzing dataset of Wholesale
@@ -27,7 +27,7 @@ price index, Rainfall and Base price of market
 ### *Cost*
 Since the system uses only open source software, it is free of cost..!!
 
-*TBD*
+
 
 ### *Features*
 The various features of the system are:
