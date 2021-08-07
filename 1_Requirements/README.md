@@ -79,7 +79,7 @@ classified it using various Machine learning algorithms
 |----------------|-------------------------------|-----------------------------|
 |HR_01|Crop dataset / Soil charactersitics|Implemented|
 |HR_02|Training requirements |Implemented|
-|HR_03|Data security:|Implemented|
+|HR_03|Data security|Implemented|
 |HR_04|Data PreProcessing|Implemented|
 |HR_05|classification algorithm |Implemented|
 |HR_06|Rainfall condition|Implemented|
