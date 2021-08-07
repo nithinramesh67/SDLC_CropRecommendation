@@ -8,7 +8,7 @@ to be in loss, will not get proper yield of profit in the end. To overcome probl
 we have applying Machine Learning technique history of Crop yield Information
 of the region
 ## Objectives
-* Recommend a Suitable Crop to farmer based on his region soil features surface temperature, rainfall from dataset which is gathered from Open Government Data (data.gov.in)
+* Recommend a Suitable Crop to farmer based on his region soil features surface temperature, rainfall from dataset which is gathered from Open Government Data (data.gov.in)
 * Study various Classification Algorithms in machine learning and analyze
 which classifier is suitable for Crop Recommendation
 * Predict the Crop price monthly changes by analyzing dataset of Wholesale
@@ -98,26 +98,4 @@ classified it using various Machine learning algorithms
 |LR_06|Square Meter|HR_02|Implemented|
 |LR_07|Square Centimeter|HR_02|Implemented|
 |LR_08|Square Foot|HR_02|Implemented|
-|LR_09|MSquare Inch|HR_02|Implemented|
-|LR_10|Square Yard|HR_02|Implemented|
-|LR_11|Cubic Meter|HR_03|Implemented|
-|LR_12|Cubic Centimeter|HR_03|Implemented|
-|LR_13|Litre|HR_03|Implemented|
-|LR_14|Millilitre|HR_03|Implemented|
-|LR_15|Gallon (imperial)|HR_03|Implemented|
-|LR_16|Kilogram|HR_04|Implemented|
-|LR_17|Gram|HR_04|Implemented|
-|LR_18|Ounce|HR_04|Implemented|
-|LR_19|Tonne (metric)|HR_04|Implemented|
-|LR_20|Pound|HR_04|Implemented|
-|LR_21|Meter per Second|HR_05|Implemented|
-|LR_22|Kilometer per Hour|HR_05|Implemented|
-|LR_23|Miles per Hour|HR_05|Implemented|
-|LR_24|Foot per Second|HR_05|Implemented|
-|LR_25|Knot|HR_05|Implemented|
-|LR_26|Hour|HR_06|Future|
-|LR_27|Minute|HR_06|Future|
-|LR_28|Second|HR_06|Future|
-|LR_29|Celcius|HR_07|Future|
-|LR_30|Farenheit|HR_07|Future|
-|LR_31|Kelvin|HR_07|Future|
+
