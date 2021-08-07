@@ -1,32 +1,27 @@
 # Requirements
 
 ## Introduction
-* Knowing the units of measurement that correspond with a number can give you so much more information than a digit as a standalone. 
-
-* In a nutshell, the unit of measurement in science and math serves as the supporting pillar upon which a number rests.
-
-* **Unit conversion** is a process that involves multiplication or division by a numerical factor.
-
-* With the global flow of information that occurs these days, it is very important for everyone to learn these most basic conversion factors.
-
-* Keeping in mind all the conversion and inter-conversion processes may not be easy for everyone.
-
-* A metric conversion calculator is a tool that renders a helping hand by doing metric conversions in few seconds.
+    Features of soil like pH, N, P, K are important values which determine Which
+crop is suitable for growing in that particular land, But At present Farmer is not
+Selecting according to above values this will create a issue it will makes the farmer
+to be in loss, will not get proper yield of profit in the end. To overcome problem
+we have applying Machine Learning technique history of Crop yield Information
+of the region
+## Objectives
+* Recommend a Suitable Crop to farmer based on his region soil features surface temperature, rainfall from dataset which is gathered from Open Government Data (data.gov.in)
+* Study various Classification Algorithms in machine learning and analyze
+which classifier is suitable for Crop Recommendation
+* Predict the Crop price monthly changes by analyzing dataset of Wholesale
+price index, Rainfall and Base price of market
 
 ## Research
-* During the French Revolution, the then existing measurement system was so impractical for trade and scientific purposes. 
+* Earlier there was Manual identification of soil in lab.
+* The measurement of moisture content is not precise.
+* Crops for a certain soil cannot be specified for a particular area.
+* Time-consuming.
+* Crop yield reduction.
+* No forecasting and the traditional technique are used.
 
-* So, it set the stage for the emergence of a system of measurement with rationally related units and simple rules for combining them.
-
-* Thus, a decimal based conversion system, called the Metric System,  was introduced and it was widely accepted by scientists of those days for being a rational system.
-
-* The metric system was devised with a aim “for all people, for all time.”
-
-* Today, the official system of measurement in most of the countries across the world is the metric system also known as the “International System of Units.
-
-* Though a standard system, there are many units within the metric systems and inter-conversion is tedious because one has to remember all the conversion factors.
-
-* Hence a tool that makes all these conversion immediately available will be a welcoming choice.
 
 ## Cost and Features
 ### *Cost*
@@ -35,12 +30,15 @@ Since the system uses only open source software, it is free of cost..!!
 *TBD*
 
 ### *Features*
-The various features/options for interconversion of the system are:
-1. Length
-2. Area
-3. Volume
-4. Mass
-5. Speed
+The various features of the system are:
+* Recommending the crop helps the agriculture and cropping seasonal will
+help the farmer
+* Proposing the elective turn will help in supporting the Soil ripeness
+* Using the classifiers which helps us determine the better crop to when compared single classifier
+* Accuracy is improved.
+* Crops suitable for the soil type are identified.
+*  Manuals is reduced and Time consumption is minimized.
+* Concentrated on crop growth depending on regional factors and Forecasting to get a good yield
 
 ## Defining the System
 ![System-Diagram](https://github.com/Sanchana-2k/LTTS_C_MiniProject/blob/bd3f1a159eb0f2032dbd88662892a2142d26b84d/1_Requirements/System%20Diagram.jpg)
