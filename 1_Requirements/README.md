@@ -77,25 +77,24 @@ classified it using various Machine learning algorithms
 
 |      ID          |Description                          |Status                         |
 |----------------|-------------------------------|-----------------------------|
-|HR_01|Length |Implemented|
-|HR_02|Area |Implemented|
-|HR_03|Volume|Implemented|
-|HR_04|Mass |Implemented|
-|HR_05|Speed |Implemented|
-|HR_06|Time|Future|
-|HR_07|Temperature|Future|
+|HR_01|Crop dataset / Soil charactersitics|Implemented|
+|HR_02|Training requirements |Implemented|
+|HR_03|Data security:|Implemented|
+|HR_04|Data PreProcessing|Implemented|
+|HR_05|classification algorithm |Implemented|
+|HR_06|Rainfall condition|Implemented|
+|HR_07|Temperature|Implemented|
 
 
 
 ##  Low level Requirements:
 |      ID          |Description                          |  HLR_ID  |Status               |
 |----------------|-------------------------------|----------|-----------------------------|
-|LR_01|Meter|HR_01|Implemented|
-|LR_02|Centimeter|HR_01|Implemented|
-|LR_03|Foot|HR_01|Implemented|
-|LR_04|Inch|HR_01|Implemented|
-|LR_05|Millimeter|HR_01|Implemented|
-|LR_06|Square Meter|HR_02|Implemented|
-|LR_07|Square Centimeter|HR_02|Implemented|
-|LR_08|Square Foot|HR_02|Implemented|
+|LR_01|Data validation |HR_01|Implemented|
+|LR_02|Precesion|HR_01|Implemented|
+|LR_03|conversion of nominal to Numeric|HR_04|Implemented|
+|LR_04|outliers|HR_01|Implemented|
+|LR_05|data splitting|HR_04|Implemented|
+|LR_06|handling missing values|HR_04|Implemented|
+
 
