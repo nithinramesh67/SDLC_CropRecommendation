@@ -5,13 +5,13 @@ Folder             | Description
 `2_Architecture`         | Documents specifying Architecture and Design details
 `3_Implementation` | All code and documentation
 `4_Test_planAnd_Output`      | Documents with test plans and procedures
-`5_Report`| Detailed Reort Document
+`5_Report`| Detailed Report Uploaded
 
 ## Contributors List and Summary
 
   Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 --------|----------------|----------------|---------------|-------------|--------------
-S Sanchana  | Crop Recommendation   | Nil     | Nil   |9   | YES    
+Nithin R  | Crop Recommendation   | Nil     | Nil   |9   | YES    
    
 
 ## Challenges Faced and How Was It Overcome
