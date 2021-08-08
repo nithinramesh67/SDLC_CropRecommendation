@@ -1,1 +1,1 @@
-checkout my report uploaded
+checkout my Detailed Report uploaded
