@@ -1,3 +1,5 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e2c4aed90f6f41da9cb32c855d4d4c61)](https://www.codacy.com/gh/nithinramesh67/SDLC_CropRecommendation/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nithinramesh67/SDLC_CropRecommendation&amp;utm_campaign=Badge_Grade)
+
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
